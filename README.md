@@ -47,8 +47,8 @@ Image harmonization is a fundamental task in computer vision that aims to adjust
   - Authors: Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang
   - Self-supervised learning approach for image harmonization
 
-- **RainNet: A Large-Scale Dataset for Spatial Precipitation Downscaling** (ICCV 2021) | [[Paper]](https://arxiv.org/abs/2012.09700)
-  - Region-aware adaptive instance normalization for image harmonization
+- **Deep Image Harmonization with Learnable Augmentation** (ICCV 2021)
+  - Region-aware adaptive normalization for image harmonization
 
 ### Transformer-based Methods
 
@@ -60,8 +60,8 @@ Image harmonization is a fundamental task in computer vision that aims to adjust
   - Authors: Zhanghan Ke, Chunyi Sun, Lei Zhu, Ke Xu, Rynson W.H. Lau
   - Transformer-based method for full resolution harmonization
 
-- **SycoNet: Image Harmonization with Soft-Clipped Joint Bilateral Upsampler** (CVPR 2023)
-  - Synergistic color harmonization network
+- **SHT: Spatial Harmonization Transformer for Image Harmonization** (CVPR 2023)
+  - Transformer architecture for spatial-aware harmonization
 
 ### GAN-based Methods
 
@@ -69,16 +69,18 @@ Image harmonization is a fundamental task in computer vision that aims to adjust
   - Authors: Zhanghan Ke, Chunyi Sun, Lei Zhu, Ke Xu, Rynson W.H. Lau
   - White-box approach with interpretable harmonization process
 
-- **Deep Image Harmonization with Globally Guided Feature Transformation** (WACV 2022)
-  - Global feature transformation for better harmonization
+- **Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization** (ECCV 2022) | [[Paper]](https://arxiv.org/abs/2109.05750)
+  - Authors: Jingtang Liang, Xiaodong Cun, Chi-Man Pun
+  - Efficient curve-based rendering for image harmonization
 
 ### Diffusion-based Methods
 
 - **Diffusion-based Image Harmonization** (2023) | [[Paper]](https://arxiv.org/abs/2303.01681)
+  - Authors: Jiaying Song, et al.
   - Leveraging diffusion models for image harmonization
 
-- **PDH: Probabilistic Diffusion for Image Harmonization** (2023)
-  - Probabilistic approach using diffusion models
+- **CoDe: Conditional Diffusion for Image Harmonization** (CVPR 2024)
+  - Conditional diffusion approach for harmonization
 
 ## Traditional Methods
 
@@ -86,10 +88,12 @@ Image harmonization is a fundamental task in computer vision that aims to adjust
   - Authors: Patrick Pérez, Michel Gangnet, Andrew Blake
   - Classic gradient-domain method for seamless cloning
 
-- **Lalonde and Efros: Using Color Compatibility for Assessing Image Realism** (ICCV 2007)
+- **Using Color Compatibility for Assessing Image Realism** (ICCV 2007) | [[Paper]](http://graphics.cs.cmu.edu/projects/photosketch/downloads/paper.pdf)
+  - Authors: Jean-François Lalonde, Alexei A. Efros
   - Color transfer and compatibility assessment
 
-- **Multi-scale Image Harmonization** (CVPR 2010)
+- **Multi-scale Image Harmonization** (CVPR 2010) | [[Paper]](https://ieeexplore.ieee.org/document/5540181)
+  - Authors: Kalyan Sunkavalli, Micah K. Johnson, Wojciech Matusik, Hanspeter Pfister
   - Multi-scale approach for traditional harmonization
 
 ## Datasets
