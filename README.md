@@ -2,6 +2,8 @@
 
 A curated collection of research papers, datasets, and resources related to Image Harmonization.
 
+> **Note:** Some recent papers may not have publicly available links yet. Papers are included based on their relevance and contribution to the field.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -112,8 +114,9 @@ Image harmonization is a fundamental task in computer vision that aims to adjust
   - Real-world image harmonization dataset
 
 ### Synthetic Datasets
-- **ccHarmony Dataset** (ICCV 2021)
+- **ccHarmony Dataset** (ICCV 2021) | [[Link]](https://github.com/VITA-Group/SSHarmonization)
   - Large-scale synthetic dataset for self-supervised learning
+  - Part of the SSH paper repository
 
 ## Evaluation Metrics
 
